@@ -1,8 +1,8 @@
 cask "codefleet" do
-  version "0.3.1"
-  sha256 "5f13c6c0a2a7119facec50f065b1a2f2233a50829ead7f3f2332ebeb374f8220"
+  version "0.3.2"
+  sha256 "59462ef2f2c0f4a3c011dfa0b6f6218b23c86a0ad51b84d66e6a4176d7df1883"
 
-  url "https://hcqyrqyvykdqpaueghhd.supabase.co/storage/v1/object/public/applications/CodeFleet_0.3.1_aarch64.dmg"
+  url "https://hcqyrqyvykdqpaueghhd.supabase.co/storage/v1/object/public/applications/CodeFleet_0.3.2_aarch64.dmg"
   name "CodeFleet"
   desc "AI-first development workspace for seamless collaboration with multiple AI coding assistants"
   homepage "https://codefleet.app"
