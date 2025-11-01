@@ -1,6 +1,6 @@
 cask "codefleet" do
   version "0.3.2"
-  sha256 "59462ef2f2c0f4a3c011dfa0b6f6218b23c86a0ad51b84d66e6a4176d7df1883"
+  sha256 "127c6ee1e7cb1eb31444ebf4211fa746b1a14bb3d196a823e62c02beff7d2628"
 
   url "https://hcqyrqyvykdqpaueghhd.supabase.co/storage/v1/object/public/applications/CodeFleet_0.4.0_aarch64.dmg"
   name "CodeFleet"
