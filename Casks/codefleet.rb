@@ -1,8 +1,8 @@
 cask "codefleet" do
-  version "0.13.0"
-  sha256 "e1146b9d2d7f902c4081e78c92061b7f827fa958f2c8808368aaaacadb79af1d"
+  version "1.0.0"
+  sha256 "ec7bc839e4465d29582413930536d2534e4509439b251da6c8dc14357cb3d4de"
 
-  url "https://codefleet.app/api/download/brew/macos/0.13.0"
+  url "https://codefleet.app/api/download/brew/macos/1.0.0"
   name "CodeFleet"
   desc "AI-first development workspace for seamless collaboration with multiple AI coding assistants"
   homepage "https://codefleet.app"
