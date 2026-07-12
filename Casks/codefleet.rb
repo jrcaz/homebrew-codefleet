@@ -1,6 +1,6 @@
 cask "codefleet" do
   version "1.0.0"
-  sha256 "ec7bc839e4465d29582413930536d2534e4509439b251da6c8dc14357cb3d4de"
+  sha256 "33b06d4058f4d92d15360b113c0b41faa3095e3c98cab4000115d3a9ae3257f2"
 
   url "https://codefleet.app/api/download/brew/macos/1.0.0"
   name "CodeFleet"
