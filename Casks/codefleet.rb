@@ -1,4 +1,5 @@
 cask "codefleet" do
+
   version "1.3.0"
   sha256 "615067cc6cf36f2bda0bd1aa60f519483b9835ea370620bf7996e69f19b06f10"
 
